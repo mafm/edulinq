@@ -1,3 +1,5 @@
+(Just a copy of the original repository, made in case it disappears.)
+
 This is the source repository for Edulinq - a project to reimplement
 LINQ to Objects for educational purposes. The introductory blog post
 to the series is here:
